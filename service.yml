@@ -9,4 +9,4 @@ spec:
       revisionTemplate:
         spec:
           container:
-            image: docker.io/brianmmcclain/knative-helloworld:latest
+            image: docker.io/gswk/knative-helloworld:latest
